@@ -1,0 +1,15 @@
+>> The Classes Summarization of 'internet':
+
+The Internet is a worldwide network of computers that communicate with each other using standardized protocols. It is not controlled by a single person or organization. 
+
+Data is transmitted on the Internet through various mediums, such as Ethernet cables, fiber optic cables, and wireless signals. 
+
+IP addresses and DNS are used to identify and locate computers on the Internet. 
+
+Information is transferred in the form of packets, which can take different routes during transmission. 
+
+HTTP is the standard protocol for transferring webpages over the Internet. 
+
+Cryptography and SSL/TLS ensure secure communication on the Internet. 
+
+Cybersecurity involves protecting against criminal activity on the Internet.

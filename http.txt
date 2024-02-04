@@ -1,0 +1,7 @@
+>> The Classes Summarization of 'http':
+
+HTTP, or Hypertext Transfer Protocol, is a vital part of the World Wide Web. It allows us to load web pages using hypertext links. HTTP is an application layer protocol that enables the transfer of information between devices connected to a network. It operates on top of other layers in the network protocol stack.
+
+When using HTTP, a typical interaction involves a client machine (such as a web browser) requesting information from a server. The server then responds by sending back a message.
+
+An HTTP request consists of encoded data that carries various types of information. This request is how internet communication platforms, like web browsers, ask for the specific information they need to load a website.
